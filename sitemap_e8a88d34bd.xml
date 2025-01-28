@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+        <url>
+          <loc>https://mishovmarkets.com/</loc>
+          <changefreq>daily</changefreq>
+          <priority>1</priority></url>
+
+        <url>
+          <loc>https://mishovmarkets.com/About</loc>
+          <changefreq>monthly</changefreq>
+          <priority>0.8</priority></url>
+
+        <url>
+          <loc>https://mishovmarkets.com/Platforms</loc>
+          <changefreq>monthly</changefreq>
+          <priority>0.8</priority></url>
+
+        <url>
+          <loc>https://mishovmarkets.com/Profit-Loss-Calculator</loc>
+          <changefreq>monthly</changefreq>
+          <priority>0.8</priority></url>
+
+        <url>
+          <loc>https://mishovmarkets.com/Margin-Calculator</loc>
+          <changefreq>monthly</changefreq>
+          <priority>0.8</priority></url>
+
+        <url>
+          <loc>https://mishovmarkets.com/Spread-Calculator</loc>
+          <changefreq>monthly</changefreq>
+          <priority>0.8</priority></url>
+
+        <url>
+          <loc>https://mishovmarkets.com/Help-Center</loc>
+          <changefreq>monthly</changefreq>
+          <priority>0.8</priority></url>
+
+        <url>
+          <loc>https://mishovmarkets.com/Blog</loc>
+          <changefreq>weekly</changefreq>
+          <priority>0.6</priority></url>
+
+        <url>
+          <loc>https://mishovmarkets.com/Privacy-Policy</loc>
+          <changefreq>monthly</changefreq>
+          <priority>0.8</priority></url>
+
+        <url>
+          <loc>https://mishovmarkets.com/Account-Types</loc>
+          <changefreq>monthly</changefreq>
+          <priority>0.8</priority></url>
+
+        <url>
+          <loc>https://mishovmarkets.com/Deposit-&-Withdrawal</loc>
+          <changefreq>monthly</changefreq>
+          <priority>0.8</priority></url>
+
+        <url>
+          <loc>https://mishovmarkets.com/Market</loc>
+          <changefreq>monthly</changefreq>
+          <priority>0.8</priority></url>
+
+        <url>
+          <loc>https://mishovmarkets.com/Promotion</loc>
+          <changefreq>monthly</changefreq>
+          <priority>0.8</priority></url>
+
+        <url>
+          <loc>https://mishovmarkets.com/FAQ</loc>
+          <changefreq>monthly</changefreq>
+          <priority>0.8</priority></url>
+
+        <url>
+          <loc>https://mishovmarkets.com/post/example-post-1</loc>
+          <changefreq>weekly</changefreq>
+          <priority>0.6</priority></url>
+
+        <url>
+          <loc>https://mishovmarkets.com/post/example-post-2</loc>
+          <changefreq>weekly</changefreq>
+          <priority>0.6</priority></url>
+</urlset>
